@@ -4,5 +4,5 @@ Como rodar: o comando para executar o programa (python pdv.py).
 
 Casos de teste:
 
-<img width="699" height="410" alt="Captura de tela 2026-10-30 134756" src="https://github.com/user-attachments/assets/cfe6e1af-5883-4648-ba0c-da96781db0c1" />
+<img width="699" height="410" alt="tabela" src="https://github.com/user-attachments/assets/cfe6e1af-5883-4648-ba0c-da96781db0c1" />
 
