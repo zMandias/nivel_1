@@ -27,3 +27,5 @@ print(f"Compras: {len(historico)}")
 print(f"Total bruto: R$ {bruto:.2f}")
 print(f"Descontos: R$ {bruto - final:.2f}")
 print(f"Total final: R$ {final:.2f}")
+
+input("\nPressione Enter para sair...")
